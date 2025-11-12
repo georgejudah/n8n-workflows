@@ -1,0 +1,17 @@
+# n8n specific
+node_modules/
+.env
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Sensitive data - credentials files
+*credential*.json
+*secret*.json
+client_secret*.json
