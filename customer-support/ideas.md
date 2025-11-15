@@ -30,3 +30,5 @@ Idea#1
 -- Trigger: Telegram
 -- AI Chat with GPT
 -- Respond via Telegram
+
+2. A 
